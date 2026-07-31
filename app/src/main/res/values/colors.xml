@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="primary">#6C63FF</color>
+
+    <color name="primaryDark">#4834D4</color>
+
+    <color name="background">#F5F7FA</color>
+
+    <color name="card">#FFFFFF</color>
+
+    <color name="textDark">#1E293B</color>
+
+    <color name="textLight">#64748B</color>
+
+    <color name="green">#22C55E</color>
+
+</resources>
